@@ -1,5 +1,7 @@
-#ifndef PELICULA_H_INCLUDED
-#define PELICULA_H_INCLUDED
+#ifndef PELICULA_H
+#define PELICULA_H
+
+
 class pelicula
 {
     public:
@@ -10,5 +12,4 @@ class pelicula
 
 };
 
-
-#endif // PELICULA_H_INCLUDED
+#endif // PELICULA_H
