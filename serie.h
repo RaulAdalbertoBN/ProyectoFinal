@@ -1,5 +1,5 @@
-#ifndef SERIE_H_INCLUDED
-#define SERIE_H_INCLUDED
+#ifndef SERIE_H
+#define SERIE_H
 #include "episodio.h"
 
 class serie: public episodio
@@ -18,4 +18,4 @@ class serie: public episodio
 };
 
 
-#endif // SERIE_H_INCLUDED
+#endif // SERIE_H
