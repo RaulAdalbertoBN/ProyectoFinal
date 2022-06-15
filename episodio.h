@@ -1,5 +1,5 @@
-#ifndef EPISODIO_H_INCLUDED
-#define EPISODIO_H_INCLUDED
+#ifndef EPISODIO_H
+#define EPISODIO_H
 #include "iostream"
 using namespace std;
 
@@ -12,5 +12,4 @@ class episodio
         episodio(string,int);
 };
 
-
-#endif // EPISODIO_H_INCLUDED
+#endif // EPISODIO_H
