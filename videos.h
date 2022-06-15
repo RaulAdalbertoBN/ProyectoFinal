@@ -1,5 +1,5 @@
-#ifndef VIDEOS_H_INCLUDED
-#define VIDEOS_H_INCLUDED
+#ifndef VIDEOS_H
+#define VIDEOS_H
 #include "iostream"
 #include "pelicula.h"
 #include "serie.h"
@@ -27,4 +27,4 @@ class videos
 };
 
 
-#endif // VIDEOS_H_INCLUDED
+#endif // VIDEOS_H
