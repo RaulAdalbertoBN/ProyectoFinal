@@ -1,5 +1,5 @@
-#ifndef VIDEOTECA_H_INCLUDED
-#define VIDEOTECA_H_INCLUDED
+#ifndef VIDEOTECA_H
+#define VIDEOTECA_H
 #include "iostream"
 #include "videos.h"
 
@@ -17,4 +17,4 @@ class videoteca
 };
 
 
-#endif // VIDEOTECA_H_INCLUDED
+#endif // VIDEOTECA_H
